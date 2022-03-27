@@ -303,10 +303,6 @@ body{
     border-radius: 8px;
     background-color: #ee8a8a;
 }
-.second__title{
-    margin-bottom: 10px;
-    font-size: 30px;
-}
 .second-part{
     font-family: "Roboto", Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -316,13 +312,6 @@ body{
     color: white;
     line-height: 1.5;
     letter-spacing: 0.15px;
-}
-.second-part__container{
-    margin: 0 auto;
-    margin-bottom: 10px;
-    max-width: 1020px;
-}
-.second-part {
     padding-top: 150px;
 }
 .second-part__container {
@@ -332,6 +321,8 @@ body{
     min-height: 1000px;
     margin: 0 auto;
     position: relative;
+    margin: 0 auto;
+    margin-bottom: 10px;
 }
 .second-part__container::before{
     content: url("../img/maket/pic4.svg");
