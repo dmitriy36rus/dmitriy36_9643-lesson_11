@@ -363,6 +363,8 @@ body{
 .content-second-part__text {
     margin-bottom: 10px;
     max-width: 846px;
+    position:absolute;
+    z-index: 3;
 }
 .second-part__image {
     position: absolute;
